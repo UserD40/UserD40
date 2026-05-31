@@ -174,12 +174,6 @@ Live products I've built and run — here's what each one does:
 <summary><b>📊&nbsp; Dev stats &amp; activity</b></summary>
 <br/>
 
-**⏱️ This week, in code** &nbsp;—&nbsp; via WakaTime
-
-<!--START_SECTION:waka-->
-<sub><i>WakaTime tracking is being set up — a weekly language &amp; editor breakdown lands here.</i></sub>
-<!--END_SECTION:waka-->
-
 **⚡ Recently on GitHub**
 
 <!--START_SECTION:activity-->
