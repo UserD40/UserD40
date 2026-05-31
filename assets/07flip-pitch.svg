@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="40" viewBox="0 0 680 40" fill="none">
+<style>.t{font-family:ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace;font-size:18px;font-weight:500;fill:#F5841F;opacity:0;animation:cyc 50s ease-in-out infinite}
+.l1{animation-delay:0s}
+.l2{animation-delay:10s}
+.l3{animation-delay:20s}
+.l4{animation-delay:30s}
+.l5{animation-delay:40s}
+@keyframes cyc{0%{opacity:0}4.00%{opacity:1}16.00%{opacity:1}20.00%{opacity:0}100%{opacity:0}}</style>
+<text class="t l1" x="340" y="26" text-anchor="middle">Live OSRS Grand Exchange flip finder</text>
+<text class="t l2" x="340" y="26" text-anchor="middle">Model-driven buy and sell prices with ROI</text>
+<text class="t l3" x="340" y="26" text-anchor="middle">Top flips, dumps and merch alerts</text>
+<text class="t l4" x="340" y="26" text-anchor="middle">Potion decant and armour-repair profit</text>
+<text class="t l5" x="340" y="26" text-anchor="middle">Powers the in-client RuneLite plugin</text>
+</svg>

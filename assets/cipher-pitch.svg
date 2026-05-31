@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="40" viewBox="0 0 680 40" fill="none">
+<style>.t{font-family:ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace;font-size:18px;font-weight:500;fill:#3DDC84;opacity:0;animation:cyc 30s ease-in-out infinite}
+.l1{animation-delay:0s}
+.l2{animation-delay:10s}
+.l3{animation-delay:20s}
+@keyframes cyc{0%{opacity:0}6.67%{opacity:1}26.67%{opacity:1}33.33%{opacity:0}100%{opacity:0}}</style>
+<text class="t l1" x="340" y="26" text-anchor="middle">Daily Mastermind-style code-breaking puzzle</text>
+<text class="t l2" x="340" y="26" text-anchor="middle">A fresh secret code every day</text>
+<text class="t l3" x="340" y="26" text-anchor="middle">Crack it in six guesses and share your score</text>
+</svg>
