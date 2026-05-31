@@ -131,6 +131,7 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 <table width="100%">
+  <tr><td colspan="6"><img src="assets/spacer.svg" width="1400" height="1" alt="" /></td></tr>
   <tr>
     <td align="center" width="15%"><img height="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
     <td align="center" width="15%"><img height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
