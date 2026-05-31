@@ -44,10 +44,6 @@ jobs:
           config_timezone: Europe/London
           config_animations: "yes"
 
-          # ── Activity heatmap (compact half-year so it isn't stretched) ──
-          plugin_isocalendar: "yes"
-          plugin_isocalendar_duration: half-year
-
           # ── Force a GitHub-dark palette (metrics' classic template is light) ──
           extras_css: |
             body, svg { background-color: #0d1117; }
