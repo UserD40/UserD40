@@ -1,0 +1,69 @@
+name: Metrics
+
+# Renders Joe's GitHub metrics into github-metrics.svg and commits it to the repo,
+# so the profile README embeds a STATIC file (no hosted instance that can 503).
+#
+# One-time setup:
+#   1. Create a classic Personal Access Token with scopes: repo, read:org, read:user
+#      (GitHub > Settings > Developer settings > Tokens (classic) > Generate new (classic))
+#   2. Add it to THIS repo as a secret named METRICS_TOKEN
+#      (Settings > Secrets and variables > Actions > New repository secret)
+#   3. Run it once: Actions tab > "Metrics" > Run workflow.
+# After that it refreshes itself daily.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # daily at 06:00 UTC
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths: [.github/workflows/metrics.yml]   # re-render when this file changes
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # ── Auth ──
+          # Falls back to GITHUB_TOKEN (public stats) so the FIRST run works with
+          # zero setup. Add a METRICS_TOKEN secret (classic PAT: repo, read:org,
+          # read:user) to also fold your PRIVATE repos into the stats & languages.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: UserD40
+          committer_branch: main
+
+          # ── Output ──
+          filename: github-metrics.svg
+          template: classic
+          base: header
+          config_timezone: Europe/London
+          config_animations: "yes"
+
+          # ── Language breakdown (includes private repos via the token) ──
+          plugin_languages: "yes"
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 1%
+
+          # ── Activity heatmap (replaces the old activity-graph service) ──
+          plugin_isocalendar: "yes"
+          plugin_isocalendar_duration: full-year
+
+          # ── Achievements (the trophy substitute) ──
+          plugin_achievements: "yes"
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: "yes"
+          plugin_achievements_threshold: C
+
+          # ── Force a GitHub-dark palette (metrics' classic template is light) ──
+          extras_css: |
+            body, svg { background-color: #0d1117; }
+            svg { color: #c9d1d9; }
+            h1, h2, h3, a { color: #58a6ff; }
+            .field, section, .row, .cell, .gauge, .achievement { border-color: #30363d !important; }
