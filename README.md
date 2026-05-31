@@ -19,7 +19,6 @@
 <!-- ===================== INTRO BADGES ===================== -->
 <a href="https://jmhb.dev"><img src="https://img.shields.io/badge/jmhb.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="jmhb.dev" /></a>
 <a href="mailto:contact@jmhb.dev"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=58A6FF" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/jmhbrenan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 <!-- TODO: add an X handle then uncomment:
 <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 -->
