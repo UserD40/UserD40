@@ -5,10 +5,10 @@
 .l3{animation-delay:20s}
 .l4{animation-delay:30s}
 .l5{animation-delay:40s}
-@keyframes cyc{0%{opacity:0}4.00%{opacity:1}16.00%{opacity:1}20.00%{opacity:0}100%{opacity:0}}</style>
+@keyframes cyc{0%{opacity:0}4%{opacity:1}16%{opacity:1}20%{opacity:0}100%{opacity:0}}</style>
 <text class="t l1" x="340" y="26" text-anchor="middle">Emoji-driven meal picker for neurodivergent kids</text>
 <text class="t l2" x="340" y="26" text-anchor="middle">4 taps: mood to texture to category to meal</text>
-<text class="t l3" x="340" y="26" text-anchor="middle">60 meals that work fully offline</text>
+<text class="t l3" x="340" y="26" text-anchor="middle">Over 450 meal choices that work fully offline</text>
 <text class="t l4" x="340" y="26" text-anchor="middle">Parents get an instant push the moment a child picks</text>
 <text class="t l5" x="340" y="26" text-anchor="middle">Privacy-first: zero child data stored</text>
 </svg>
