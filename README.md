@@ -19,9 +19,9 @@
 <!-- ===================== INTRO BADGES ===================== -->
 <a href="https://jmhb.dev"><img src="https://img.shields.io/badge/jmhb.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="jmhb.dev" /></a>
 <a href="mailto:contact@jmhb.dev"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=58A6FF" alt="Email" /></a>
-<!-- TODO: add handles, then uncomment:
+<a href="https://www.linkedin.com/in/jmhbrenan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<!-- TODO: add an X handle then uncomment:
 <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 -->
 
 </div>
@@ -166,6 +166,26 @@ Live products I've built and run — here's what each one does:
   </tr>
 </table>
 </div>
+
+<br/>
+
+<!-- ===================== DEV STATS & ACTIVITY ===================== -->
+<details>
+<summary><b>📊&nbsp; Dev stats &amp; activity</b></summary>
+<br/>
+
+**⏱️ This week, in code** &nbsp;—&nbsp; via WakaTime
+
+<!--START_SECTION:waka-->
+<sub><i>WakaTime tracking is being set up — a weekly language &amp; editor breakdown lands here.</i></sub>
+<!--END_SECTION:waka-->
+
+**⚡ Recently on GitHub**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 <br/>
 
