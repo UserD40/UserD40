@@ -53,26 +53,73 @@ I'm **Joe** — a solo founder running **JMHB LTD** ([jmhb.dev](https://jmhb.dev
 
 Live products I've built and run — here's what each one does:
 
-### [Mealtime Magic ↗](https://getmealtimemagic.com)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&duration=2600&color=58A6FF&vCenter=true&width=620&height=40&lines=Emoji-driven+meal+picker+for+neurodivergent+kids;4+taps%3A+mood+to+texture+to+category+to+meal;60+meals+that+work+fully+offline;Parents+get+an+instant+push+the+moment+a+child+picks;Privacy-first%3A+zero+child+data+stored" alt="Mealtime Magic — what it does" />
+<div align="center">
 
-### [07flip ↗](https://07flip.com)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&duration=2600&color=58A6FF&vCenter=true&width=620&height=40&lines=Live+OSRS+Grand+Exchange+flip+finder;Model-driven+buy+and+sell+prices+with+ROI;Top+flips%2C+dumps+and+merch+alerts;Potion+decant+and+armour-repair+profit;Powers+the+in-client+RuneLite+plugin" alt="07flip — what it does" />
+<a href="https://getmealtimemagic.com"><img src="https://img.shields.io/badge/Mealtime_Magic-8B7CF6?style=for-the-badge&logoColor=white" alt="Mealtime Magic" /></a>
 
-### [betFinder ↗](https://betfinder.live)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&duration=2600&color=58A6FF&vCenter=true&width=620&height=40&lines=Finds+%2BEV+value+bets+across+sports;Poisson%2C+Dixon-Coles+and+Elo+outcome+models;Model+probabilities+vs+bookmaker+odds;Tracks+closing-line+value+and+calibration;An+honest%2C+out-of-sample+track+record" alt="betFinder — what it does" />
+<a href="https://getmealtimemagic.com"><img src="assets/mealtimemagic.png" alt="Mealtime Magic" width="680" /></a>
 
-### [Tokenlytics ↗](https://jmhb.dev)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&duration=2600&color=58A6FF&vCenter=true&width=620&height=40&lines=Automated+crypto+trading+wired+to+Binance;Streams+and+logs+every+tick+to+TimescaleDB;Scans+30%2B+indicators+for+entry+signals;Evolves+strategies+with+genetic+algorithms;Paper-trades+first%2C+promotes+winners+live" alt="Tokenlytics — what it does" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&duration=20000&color=8B7CF6&vCenter=true&width=680&height=40&lines=Emoji-driven+meal+picker+for+neurodivergent+kids;4+taps%3A+mood+to+texture+to+category+to+meal;60+meals+that+work+fully+offline;Parents+get+an+instant+push+the+moment+a+child+picks;Privacy-first%3A+zero+child+data+stored" alt="Mealtime Magic — what it does" />
 
-### [Cipher ↗](https://mastermind.lakebed.app)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&duration=2600&color=58A6FF&vCenter=true&width=620&height=40&lines=Daily+Mastermind-style+code-breaking+puzzle;A+fresh+secret+code+every+day;Crack+it+in+six+guesses+and+share+your+score" alt="Cipher — what it does" />
+</div>
 
-### [07flip RuneLite plugin ↗](https://github.com/UserD40/Runelite07Flip)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&duration=2600&color=58A6FF&vCenter=true&width=620&height=40&lines=Live+GE+flips+inside+your+RuneLite+client;Auto-fills+buy+and+sell+prices+on+the+GE+screen;Dump+warnings+and+premium+merch+alerts;Local+trade+tracker+with+FIFO+profit;No+account+needed+for+the+basics" alt="07flip RuneLite plugin — what it does" />
+<div align="center">
 
-### PinGrid
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&duration=2600&color=58A6FF&vCenter=true&width=620&height=40&lines=All+your+pinned+tabs+in+one+place;Save+and+restore+pin+groups+instantly;A+lightweight+Chrome+extension" alt="PinGrid — what it does" />
+<a href="https://07flip.com"><img src="https://img.shields.io/badge/07flip-F5841F?style=for-the-badge&logoColor=white" alt="07flip" /></a>
+
+<a href="https://07flip.com"><img src="assets/07flip.png" alt="07flip" width="680" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&duration=20000&color=F5841F&vCenter=true&width=680&height=40&lines=Live+OSRS+Grand+Exchange+flip+finder;Model-driven+buy+and+sell+prices+with+ROI;Top+flips%2C+dumps+and+merch+alerts;Potion+decant+and+armour-repair+profit;Powers+the+in-client+RuneLite+plugin" alt="07flip — what it does" />
+
+</div>
+
+<div align="center">
+
+<a href="https://betfinder.live"><img src="https://img.shields.io/badge/betFinder-22C55E?style=for-the-badge&logoColor=white" alt="betFinder" /></a>
+
+<a href="https://betfinder.live"><img src="assets/betfinder.png" alt="betFinder" width="680" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&duration=20000&color=22C55E&vCenter=true&width=680&height=40&lines=Finds+%2BEV+value+bets+across+sports;Poisson%2C+Dixon-Coles+and+Elo+outcome+models;Model+probabilities+vs+bookmaker+odds;Tracks+closing-line+value+and+calibration;An+honest%2C+out-of-sample+track+record" alt="betFinder — what it does" />
+
+</div>
+
+<div align="center">
+
+<a href="https://jmhb.dev"><img src="https://img.shields.io/badge/Tokenlytics-2DD4BF?style=for-the-badge&logoColor=white" alt="Tokenlytics" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&duration=20000&color=2DD4BF&vCenter=true&width=680&height=40&lines=Automated+crypto+trading+wired+to+Binance;Streams+and+logs+every+tick+to+TimescaleDB;Scans+30%2B+indicators+for+entry+signals;Evolves+strategies+with+genetic+algorithms;Paper-trades+first%2C+promotes+winners+live" alt="Tokenlytics — what it does" />
+
+</div>
+
+<div align="center">
+
+<a href="https://mastermind.lakebed.app"><img src="https://img.shields.io/badge/Cipher-3DDC84?style=for-the-badge&logoColor=white" alt="Cipher" /></a>
+
+<a href="https://mastermind.lakebed.app"><img src="assets/cipher.png" alt="Cipher" width="680" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&duration=20000&color=3DDC84&vCenter=true&width=680&height=40&lines=Daily+Mastermind-style+code-breaking+puzzle;A+fresh+secret+code+every+day;Crack+it+in+six+guesses+and+share+your+score" alt="Cipher — what it does" />
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/UserD40/Runelite07Flip"><img src="https://img.shields.io/badge/07flip_RuneLite_plugin-F5841F?style=for-the-badge&logoColor=white" alt="07flip RuneLite plugin" /></a>
+
+<a href="https://github.com/UserD40/Runelite07Flip"><img src="assets/07flip-plugin.png" alt="07flip RuneLite plugin" width="680" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&duration=20000&color=F5841F&vCenter=true&width=680&height=40&lines=Live+GE+flips+inside+your+RuneLite+client;Auto-fills+buy+and+sell+prices+on+the+GE+screen;Dump+warnings+and+premium+merch+alerts;Local+trade+tracker+with+FIFO+profit;No+account+needed+for+the+basics" alt="07flip RuneLite plugin — what it does" />
+
+</div>
+
+<div align="center">
+
+<a href="https://jmhb.dev"><img src="https://img.shields.io/badge/PinGrid-4A9EFF?style=for-the-badge&logoColor=white" alt="PinGrid" /></a>
+
+<a href="https://jmhb.dev"><img src="assets/pingrid.png" alt="PinGrid" width="680" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&duration=20000&color=4A9EFF&vCenter=true&width=680&height=40&lines=All+your+pinned+tabs+in+one+place;Save+and+restore+pin+groups+instantly;A+lightweight+Chrome+extension" alt="PinGrid — what it does" />
+
+</div>
 
 </details>
 
