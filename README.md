@@ -28,7 +28,7 @@
 
 ### Hi there 👋
 
-I'm **Joe** — a solo founder and full-stack engineer running **JMHB LTD** ([jmhb.dev](https://jmhb.dev)). I architect, build and ship production software single-handedly, with **multiple full-stack products live in production** across gaming, fintech and consumer mobile.
+I'm a solo founder and full-stack engineer running **JMHB LTD** ([jmhb.dev](https://jmhb.dev)). I architect, build and ship production software single-handedly, with **multiple full-stack products live in production** across gaming, fintech and consumer mobile.
 
 - 🚀 I deliver products end-to-end — product design, full-stack development, deployment and ongoing operations
 - 🧠 Full-stack across web and mobile, with applied AI, automation and real-time data pipelines
