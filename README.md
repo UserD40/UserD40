@@ -28,12 +28,12 @@
 
 ### Hi there 👋
 
-I'm **Joe** — a solo founder running **JMHB LTD** ([jmhb.dev](https://jmhb.dev)). I design, build, ship and run a portfolio of **live products entirely solo** — across gaming, fintech and consumer mobile.
+I'm **Joe** — a solo founder and full-stack engineer running **JMHB LTD** ([jmhb.dev](https://jmhb.dev)). I architect, build and ship production software single-handedly, with **multiple full-stack products live in production** across gaming, fintech and consumer mobile.
 
-- 🚀 I take products from idea to paying users by myself — design, code, infra, the lot
-- 🧠 Big on full-stack product engineering, automation and applied AI
-- 🛠️ TypeScript-first: **Next.js** & **React Native** up front, **Supabase / Postgres** behind
-- 📫 Reach me at **contact@jmhb.dev**
+- 🚀 I deliver products end-to-end — product design, full-stack development, deployment and ongoing operations
+- 🧠 Full-stack across web and mobile, with applied AI, automation and real-time data pipelines
+- 🛠️ TypeScript-first: **Next.js** & **React Native** on the front end, **Supabase / Postgres** on the back
+- 📫 Open to interesting work — **contact@jmhb.dev**
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://getmealtimemagic.com"><img src="https://img.shields.io/badge/Mealtime_Magic-8B7CF6?style=for-the-badge&logoColor=white" alt="Mealtime Magic" /></a>
+<a href="https://getmealtimemagic.com"><img src="assets/mealtimemagic-title.svg" alt="Mealtime Magic" /></a>
 
 <a href="https://getmealtimemagic.com"><img src="assets/mealtimemagic.png" alt="Mealtime Magic" width="680" /></a>
 
@@ -65,7 +65,7 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://07flip.com"><img src="https://img.shields.io/badge/07flip-F5841F?style=for-the-badge&logoColor=white" alt="07flip" /></a>
+<a href="https://07flip.com"><img src="assets/07flip-title.svg" alt="07flip" /></a>
 
 <a href="https://07flip.com"><img src="assets/07flip.png" alt="07flip" width="680" /></a>
 
@@ -75,7 +75,7 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://betfinder.live"><img src="https://img.shields.io/badge/betFinder-22C55E?style=for-the-badge&logoColor=white" alt="betFinder" /></a>
+<a href="https://betfinder.live"><img src="assets/betfinder-title.svg" alt="betFinder" /></a>
 
 <a href="https://betfinder.live"><img src="assets/betfinder.png" alt="betFinder" width="680" /></a>
 
@@ -85,7 +85,9 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://jmhb.dev"><img src="https://img.shields.io/badge/Tokenlytics-2DD4BF?style=for-the-badge&logoColor=white" alt="Tokenlytics" /></a>
+<a href="https://jmhb.dev"><img src="assets/tokenlytics-title.svg" alt="Tokenlytics" /></a>
+
+<a href="https://jmhb.dev"><img src="assets/tokenlytics.png" alt="Tokenlytics" width="680" /></a>
 
 <img src="assets/tokenlytics-pitch.svg" alt="Tokenlytics — what it does" />
 
@@ -93,7 +95,7 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://mastermind.lakebed.app"><img src="https://img.shields.io/badge/Cipher-3DDC84?style=for-the-badge&logoColor=white" alt="Cipher" /></a>
+<a href="https://mastermind.lakebed.app"><img src="assets/cipher-title.svg" alt="Cipher" /></a>
 
 <a href="https://mastermind.lakebed.app"><img src="assets/cipher.png" alt="Cipher" width="680" /></a>
 
@@ -103,7 +105,7 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://github.com/UserD40/Runelite07Flip"><img src="https://img.shields.io/badge/07flip_RuneLite_plugin-F5841F?style=for-the-badge&logoColor=white" alt="07flip RuneLite plugin" /></a>
+<a href="https://github.com/UserD40/Runelite07Flip"><img src="assets/07flip-plugin-title.svg" alt="07flip RuneLite plugin" /></a>
 
 <a href="https://github.com/UserD40/Runelite07Flip"><img src="assets/07flip-plugin.png" alt="07flip RuneLite plugin" width="680" /></a>
 
@@ -113,7 +115,7 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://jmhb.dev"><img src="https://img.shields.io/badge/PinGrid-4A9EFF?style=for-the-badge&logoColor=white" alt="PinGrid" /></a>
+<a href="https://jmhb.dev"><img src="assets/pingrid-title.svg" alt="PinGrid" /></a>
 
 <a href="https://jmhb.dev"><img src="assets/pingrid.png" alt="PinGrid" width="680" /></a>
 
