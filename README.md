@@ -13,7 +13,7 @@
 
 <!-- ===================== ANIMATED HEADER ===================== -->
 <a href="https://github.com/UserD40">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Joe;Solo+founder+%40+JMHB+LTD;From+idea+to+paying+users%2C+solo;TypeScript+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Supabase" alt="Hi, I'm Joe — solo founder @ JMHB LTD" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Joe;Solo+founder+%40+JMHB+LTD;From+idea+to+paying+users%2C+solo;AI+evaluation+%C2%B7+prompt+engineering+%C2%B7+LLM+workflows;TypeScript+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Supabase" alt="Hi, I'm Joe — solo founder @ JMHB LTD" />
 </a>
 
 <!-- ===================== INTRO BADGES ===================== -->
@@ -28,10 +28,11 @@
 
 ### Hi there 👋
 
-I'm a solo founder and full-stack engineer running **JMHB LTD** ([jmhb.dev](https://jmhb.dev)). I architect, build and ship production software single-handedly, with **multiple full-stack products live in production** across gaming, fintech and consumer mobile.
+I'm a solo founder and full-stack engineer running **JMHB LTD** ([jmhb.dev](https://jmhb.dev)). I architect, build and ship production software single-handedly, with **multiple full-stack products live in production** across gaming, fintech and consumer mobile. These days I build with large language models as much as I build software — 4+ years working with LLMs, including daily hands-on use of Claude and Claude Code — and I'm as interested in evaluating model output as generating it: prompt engineering, structured evals, judging against clear standards.
 
 - 🚀 I deliver products end-to-end — product design, full-stack development, deployment and ongoing operations
 - 🧠 Full-stack across web and mobile, with applied AI, automation and real-time data pipelines
+- 🎓 BSc, plus a PGCE with **Qualified Teacher Status (QTS)** — years spent assessing work against standards and giving structured, criteria-based feedback
 - 🛠️ TypeScript-first: **Next.js** & **React Native** on the front end, **Supabase / Postgres** on the back
 - 📫 Open to interesting work — **contact@jmhb.dev**
 
