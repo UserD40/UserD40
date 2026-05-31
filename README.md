@@ -116,9 +116,9 @@ Live products I've built and run — here's what each one does:
 
 <div align="center">
 
-<a href="https://jmhb.dev"><img src="assets/pingrid-title.svg" alt="PinGrid" /></a>
+<a href="https://chromewebstore.google.com/detail/fhoelkbadgehokgoofifoibbipkdhleh?utm_source=item-share-cb"><img src="assets/pingrid-title.svg" alt="PinGrid" /></a>
 
-<a href="https://jmhb.dev"><img src="assets/pingrid.png" alt="PinGrid" width="680" /></a>
+<a href="https://chromewebstore.google.com/detail/fhoelkbadgehokgoofifoibbipkdhleh?utm_source=item-share-cb"><img src="assets/pingrid.png" alt="PinGrid" width="680" /></a>
 
 <img src="assets/pingrid-pitch.svg" alt="PinGrid — what it does" />
 
