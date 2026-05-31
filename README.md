@@ -6,7 +6,7 @@
   Tech grid : skill-icons + simple-icons.
   Optional  : add repo secret METRICS_TOKEN (classic PAT: repo, read:org, read:user)
               to fold private commit counts into the metrics header.
-  TODO      : X / LinkedIn handles (commented out below); confirm product taglines.
+  TODO      : X handle (commented out below); confirm product taglines.
 -->
 
 <div align="center">
