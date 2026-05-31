@@ -44,22 +44,9 @@ jobs:
           config_timezone: Europe/London
           config_animations: "yes"
 
-          # ── Language breakdown (includes private repos via the token) ──
-          plugin_languages: "yes"
-          plugin_languages_limit: 8
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 1%
-
-          # ── Activity heatmap (replaces the old activity-graph service) ──
+          # ── Activity heatmap (compact half-year so it isn't stretched) ──
           plugin_isocalendar: "yes"
-          plugin_isocalendar_duration: full-year
-
-          # ── Achievements (the trophy substitute) ──
-          plugin_achievements: "yes"
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: "yes"
-          plugin_achievements_threshold: C
+          plugin_isocalendar_duration: half-year
 
           # ── Force a GitHub-dark palette (metrics' classic template is light) ──
           extras_css: |
