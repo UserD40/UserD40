@@ -170,7 +170,7 @@ Live products I've built and run — here's what each one does:
 <br/>
 
 <!-- ===================== DEV STATS & ACTIVITY ===================== -->
-<details>
+<details open>
 <summary><b>📊&nbsp; Dev stats &amp; activity</b></summary>
 <br/>
 
