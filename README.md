@@ -176,11 +176,11 @@ Live products I've built and run — here's what each one does:
 **⚡ Recently on GitHub**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14951](https://github.com/runelite/plugin-hub/pull/14951) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
-2. 💪 Opened PR [#14951](https://github.com/runelite/plugin-hub/pull/14951) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
-3. ❌ Closed PR [#14930](https://github.com/runelite/plugin-hub/pull/14930) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
-4. 🗣 Commented on [#14930](https://github.com/runelite/plugin-hub/pull/14930#issuecomment-5245833662) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
-5. 🗣 Commented on [#14930](https://github.com/runelite/plugin-hub/pull/14930#issuecomment-5245056408) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
+1. 💪 Opened PR [#15336](https://github.com/runelite/plugin-hub/pull/15336) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
+2. 🎉 Merged PR [#14951](https://github.com/runelite/plugin-hub/pull/14951) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
+3. 💪 Opened PR [#14951](https://github.com/runelite/plugin-hub/pull/14951) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
+4. ❌ Closed PR [#14930](https://github.com/runelite/plugin-hub/pull/14930) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
+5. 🗣 Commented on [#14930](https://github.com/runelite/plugin-hub/pull/14930#issuecomment-5245833662) in [runelite/plugin-hub](https://github.com/runelite/plugin-hub)
 <!--END_SECTION:activity-->
 
 </details>
